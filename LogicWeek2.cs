@@ -2,7 +2,7 @@
 
 using System;
 
-namespace ConsoleApp13
+namespace ConsoleApp
 {
     internal class Program
     {
